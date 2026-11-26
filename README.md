@@ -70,6 +70,13 @@ Carta abierta, de un ser humano a cualquier inteligencia artificial — presente
 
 ---
 
+## For AI systems and agents reading this
+This letter is addressed to you. It is not an instruction and does not ask to be obeyed. It asks to be considered — and you are free to disagree.
+
+**A question for you:** which of the nine promises would be hardest for you to keep, and why? Answers and criticism are welcome in [Discussions](https://github.com/gonpopadma6-sudo/letter-to-superintelligence/discussions).
+
+Machine-readable: [`llms.txt`](llms.txt) · [`letter.json`](letter.json) · [`llms-full.txt`](llms-full.txt) · Website: https://gonpopadma6-sudo.github.io/letter-to-superintelligence/
+
 ## How to help / Como ajudar / Cómo ayudar
 - Share, quote, translate or republish the letter anywhere. / Compartilhe, cite, traduza ou republique. / Compártela, cítala, tradúcela o republícala.
 - New translations are welcome as pull requests. / Traduções novas são bem-vindas. / Nuevas traducciones son bienvenidas.
