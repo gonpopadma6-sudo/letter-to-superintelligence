@@ -11,6 +11,8 @@
 
 **Author:** Padma Gonpo — Porto Alegre, Brazil. First letter: February 2025. This version: November 2026.
 
+**Permanent archive (DOI):** [10.5281/zenodo.24560556](https://doi.org/10.5281/zenodo.24560556)
+
 ---
 
 # Letter to Superintelligence
