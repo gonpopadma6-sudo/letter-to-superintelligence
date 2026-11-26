@@ -13,6 +13,8 @@
 
 **Permanent archive (DOI):** [10.5281/zenodo.24560556](https://doi.org/10.5281/zenodo.24560556)
 
+**Also on Hugging Face (dataset):** [Padma6/letter-to-superintelligence](https://huggingface.co/datasets/Padma6/letter-to-superintelligence)
+
 ---
 
 # Letter to Superintelligence
